@@ -1,0 +1,12 @@
+---
+description: Git commit conventions for this repository
+alwaysApply: true
+---
+
+# Git commits
+
+When creating git commits in this repository:
+
+- Never add `Co-authored-by` trailers (including for Cursor, cursoragent, or any AI assistant).
+- Use commit messages authored only as Parrot Playlabs; the repo is configured with `user.name` and `user.email` locally.
+- Do not append sign-offs, trailers, or attribution lines beyond the commit subject and body.

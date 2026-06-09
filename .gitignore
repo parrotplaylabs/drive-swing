@@ -1,0 +1,6 @@
+node_modules/
+.env
+storage/data.json
+storage/data.json.tmp
+.drive-swing.pid
+drive-swing.log
