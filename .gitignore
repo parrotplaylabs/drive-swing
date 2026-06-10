@@ -1,5 +1,6 @@
 node_modules/
 .githooks/
+.cursor/
 .env
 storage/data.json
 storage/data.json.tmp
