@@ -1,4 +1,5 @@
 node_modules/
+.githooks/
 .env
 storage/data.json
 storage/data.json.tmp
